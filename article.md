@@ -10,7 +10,7 @@ programmers.
 
 
 ## Why Python is popular
--------------------------------------------------------------------------------------------------------
+
 Python is a popular programming language for many reasons. Some of the key features that make
 it so attractive to programmers include: 
 
@@ -29,7 +29,7 @@ it so attractive to programmers include:
 
 
 ## Applications of Python
-------------------------------------------------------------------------------------------------------
+
 Python is widely used in many different fields, such as:
 
 [comment]: # (the following list is an ordered list)
@@ -48,7 +48,7 @@ Python is widely used in many different fields, such as:
    and create custom tools for working with GIS data.
 
 ## Getting Started with Python
----------------------------------------------------------------------------------------------------------
+
 To get started with Python, you will need to download and install the Python software. You can
 download the latest version of Python from the official [Python website](https://www.python.org/downloads) (https://www.python.org/downloads). 
 Once you have installed Python, you can start writing and running code.
@@ -58,7 +58,7 @@ Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, an
 Code.
 
 ## Python Libraries
----------------------------------------------------------------------------------------------------------
+
 Python has a wide range of libraries available that provide additional functionality for different
 tasks. Some of the most popular libraries include:
 
@@ -72,7 +72,7 @@ tasks. Some of the most popular libraries include:
 [comment]: # (the colons in line 63 place the text left, middle or right)
 
 ## Python Functions
----------------------------------------------------------------------------------------------------------
+
 Python functions are blocks of code that can be reused multiple times. A function is defined using
 the ```def``` keyword, followed by the function name and a set of parentheses. The code inside the
 function is executed when the function is called.

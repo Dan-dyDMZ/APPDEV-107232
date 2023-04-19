@@ -100,7 +100,7 @@ as:
 | ````max()````   | The _max_ function is used to find the maximum value in a list or a string.|
 
 ## Conclusion
----------------------------------------------------------------------------------------------------------
+
 Python is a powerful, high-level programming language that is widely used in many different fields.
 Its simple, easy-to-read syntax makes it an ideal choice for beginners and experts alike, and its
 large community of developers ensures that there is always support and resources available. With

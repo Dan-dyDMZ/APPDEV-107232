@@ -112,8 +112,8 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 > code. It has a simple syntax, large community, and vast libraries for a variety of tasks. That's
 > why I love it.
 
-### Resources
----------------------------------------------------------------------------------------------------------
+## Resources
+
 Here are some helpful resources for learning more about Python:
 
 - [Python.org](https://www.python.org) - The official website for Python, with a wealth of information and resources for

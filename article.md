@@ -8,7 +8,6 @@ programmers.
 
 ![Python Logo](https://www.python.org/static/img/python-logo@2x.png)
 
-## **Lorem ipsum dolor sit amet.**
 
 ## Why Python is popular
 -------------------------------------------------------------------------------------------------------
